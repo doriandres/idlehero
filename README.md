@@ -1,1 +1,1 @@
-# idlehero
+#  Idle Hero for Windows
